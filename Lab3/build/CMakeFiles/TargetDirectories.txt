@@ -1,0 +1,4 @@
+/home/yaroslav/AK_LAB3/Lab3/build/CMakeFiles/sum.dir
+/home/yaroslav/AK_LAB3/Lab3/build/CMakeFiles/file.dir
+/home/yaroslav/AK_LAB3/Lab3/build/CMakeFiles/edit_cache.dir
+/home/yaroslav/AK_LAB3/Lab3/build/CMakeFiles/rebuild_cache.dir
